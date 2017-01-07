@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="gray">#ddd</color>
+	<color name="cell">#FF0000</color>
+	<color name="lighter_gray">#ddd</color>
+    <color name="darker_gray">#aaa</color>
+	<color name="background">#3bb9ff</color>
+	<color name="brown">#D2691E</color>
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="underpopulation_options">
+        <item>Zero Live Neighbors</item>
+        <item>One Live Neighbors</item>
+        <item>Two Live Neighbors</item>
+        <item>Three Live Neighbors</item>
+        <item>Four Live Neighbors</item>
+        <item>Five Live Neighbors</item>
+        <item>Six Live Neighbors</item>
+    </string-array>
+    <string-array name="underpopulation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+	
+	<string-array name="overpopulation_options">
+        <item>Zero Live Neighbors</item>
+        <item>One Live Neighbors</item>
+        <item>Two Live Neighbors</item>
+        <item>Three Live Neighbors</item>
+        <item>Four Live Neighbors</item>
+        <item>Five Live Neighbors</item>
+        <item>Six Live Neighbors</item>
+    </string-array>
+    <string-array name="overpopulation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+	
+	<string-array name="spawn_options">
+        <item>Zero Live Neighbors</item>
+        <item>One Live Neighbors</item>
+        <item>Two Live Neighbors</item>
+        <item>Three Live Neighbors</item>
+        <item>Four Live Neighbors</item>
+        <item>Five Live Neighbors</item>
+        <item>Six Live Neighbors</item>
+    </string-array>
+    <string-array name="spawn_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+	
+	<string-array name="animation_speed_options">
+        <item>Very Slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Very Fast</item>
+    </string-array>
+    <string-array name="animation_speed_values">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>
